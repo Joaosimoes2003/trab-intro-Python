@@ -1,4 +1,4 @@
-**#Conversão de imagem RGB em imagem Grayscale**
+#Conversão de imagem RGB em imagem Grayscale
 import cv2 # Importa a bibliotéca do OpenCV (é uma bibliotéca de precessamento de imagens e videos)
 import numpy as np # Importa a bibliotéca do NumPy (uma bibliotéca de computação numérica, com arrays multidimencionais e funções matemáticas de alto desempenho, usada em conjunto com OpenCV)
 import matplotlib.pyplot as plt # Importa uma bibliotéca de visualização de dados em python (usado aqui para exibir imagens)
